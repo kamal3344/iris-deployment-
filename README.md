@@ -1,20 +1,20 @@
 # iris-deployment-
 
-<h1> Project using Machine learning <h1>
+<h3> Project using Machine learning <h3>
   
   <p> The dataset was iris Dataset which tells about the length and width of the flower and to decide which category is belongs to using machine learning classfication problem statements logistic regression i develop this basic project </p>
   
-  ![Uploading 0_SHhnoaaIm36pc1bd.png…]()
+  ![0_SHhnoaaIm36pc1bd](https://user-images.githubusercontent.com/61119148/113516055-da4bd280-9595-11eb-92e7-c5a5c69198a4.png)
 
 
   
   
   
-  <h1> procfile </h1>
+  <h3> procfile </h3>
   
   web: gunicorn app = app
   
-  <h1> requirements </h1>
+  <h3> requirements </h3>
   
   click==7.1.2
 Flask==1.1.2
@@ -29,3 +29,4 @@ scipy==1.6.2
 sklearn==0.0
 threadpoolctl==2.1.0
 Werkzeug==1.0.1
+
